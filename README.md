@@ -28,7 +28,7 @@ This is a no-code/low-code project primarily created in Bolt.new. There is no lo
 
 ## Live Demo
 
-Visit the live project: [https://your-site-name.netlify.app](https://your-site-name.netlify.app)
+Visit the live project: [https://your-site-name.netlify.app](https://fantastic-gelato-4ea0b0.netlify.app/)
 
 ## Contributing
 
